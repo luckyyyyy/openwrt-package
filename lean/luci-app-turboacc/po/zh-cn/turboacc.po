@@ -99,3 +99,9 @@ msgstr "DNS 缓存"
 
 msgid "MTK WED WO offloading"
 msgstr "MTK 无线硬件加速"
+
+msgid "Compatible Mode"
+msgstr "兼容模式"
+
+msgid "High Performing Mode"
+msgstr "高性能模式"
